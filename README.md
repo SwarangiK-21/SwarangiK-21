@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swarangik-21&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌟 About Me  
 
 - 🔭 I’m currently working on **a Major Project in Data Science**, honing my **Python** and **SQL** skills for advanced data querying and analytics.  
