@@ -48,9 +48,9 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **🤖 CodeSynapse** | An AI-powered code explanation tool using **LLMs** and **Hugging Face Transformers**. Translates complex code logic into human-readable documentation. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/CodeSynapse) <br> [![Demo](https://img.shields.io/badge/Live_Demo-green?style=for-the-badge&logo=googlechrome)](https://huggingface.co/spaces/YOUR-USERNAME/CodeSynapse) |
-| **📊 TrendPulse** | A real-time **Brand Sentiment Dashboard** using **Streamlit** and **Plotly**. Analyzes sales trends and public sentiment instantly. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/TrendPulse) |
-| **📉 Stock Anomaly Detector** | A FinTech ML system that monitors live stock data to detect statistical anomalies and prevent market risks using **Scikit-Learn**. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/Stock-Anomaly-Detector) |
+| **🤖 CodeSynapse** | An AI-powered code explanation tool using **LLMs** and **Hugging Face Transformers**. Translates complex code logic into human-readable documentation. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/CodeSynapse) <br> [![Demo](https://img.shields.io/badge/Live_Demo-green?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/SwarangiK-21/CodeSynapse) |
+| **📊 TrendPulse** | A real-time **Brand Sentiment Dashboard** using **Streamlit** and **Plotly**. Analyzes sales trends and public sentiment instantly. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/TrendPulse) <br> [![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ht85kr9hvauxnnjaa8odye.streamlit.app/) |
+| **📉 Stock Anomaly Detector** | A FinTech ML system that monitors live stock data to detect statistical anomalies and prevent market risks using **Scikit-Learn**. | [![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/swarangik-21/Stock-Anomaly-Detector) <br> [![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://5ykp2myc3hbxkwygoohw5k.streamlit.app/) |
 
 ---
 
