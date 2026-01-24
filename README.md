@@ -22,14 +22,10 @@
 
 ### 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently building **Generative AI applications** and **Real-time Data Dashboards**.
 - 🌱 I’m deeply focused on **Large Language Models (LLMs)**, **Hugging Face Transformers**, and **Predictive Analytics**.
 - 👯 I’m open to collaboration on **UIDAI-based solutions**, **FinTech AI**, and **Open-source ML tools**.
 - 💬 Ask me about **Python, Streamlit, LLMs, Computer Vision, and Data Visualization**.
-
-<br clear="right"/>
 
 ---
 
