@@ -120,6 +120,9 @@ Suggests complete outfits using only clothes you own, for occasions, festivals, 
 
 ### 🏅 Certifications & achievements
 
+- 🤖 **Foundational Course on Applied Machine Learning and AI** — Confederation of Indian Industry (CII), CII–HP Centre for AI (Oct 2026)
+- 💬 **Certificate Program in Prompt Engineering and ChatGPT** — IT-ITeS Sector Skills Council NASSCOM (Oct 2026)
+- 🔎 **Exploratory Data Analysis** — IT-ITeS Sector Skills Council NASSCOM (Oct 2026)
 - 🎓 **Samsung Innovation Campus (SIC)** — AI, Coding & Problem Solving (Jan 2026)
 - ☁️ **AWS Cloud Foundations** — Amazon Web Services
 - 📊 **Microsoft Data Analytics** — Power BI, SQL, Excel
