@@ -123,6 +123,7 @@ Suggests complete outfits using only clothes you own, for occasions, festivals, 
 - 🤖 **Foundational Course on Applied Machine Learning and AI** — Confederation of Indian Industry (CII), CII–HP Centre for AI (Oct 2026)
 - 💬 **Certificate Program in Prompt Engineering and ChatGPT** — IT-ITeS Sector Skills Council NASSCOM (Oct 2026)
 - 🔎 **Exploratory Data Analysis** — IT-ITeS Sector Skills Council NASSCOM (Oct 2026)
+- 📈 **GenAI Powered Data Analytics Job Simulation** — Tata iQ via Forage (Jul 2026): risk profiling, delinquency prediction with AI, AI-driven collections strategy
 - 🎓 **Samsung Innovation Campus (SIC)** — AI, Coding & Problem Solving (Jan 2026)
 - ☁️ **AWS Cloud Foundations** — Amazon Web Services
 - 📊 **Microsoft Data Analytics** — Power BI, SQL, Excel
