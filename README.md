@@ -69,14 +69,14 @@ LangGraph agent that classifies an error, researches current sources, drafts a f
 </td>
 <td width="50%" valign="top">
 
-#### 👗 [Adaa — Personal Wardrobe Stylist](https://github.com/SwarangiK-21/Adaa-)
-Suggests complete outfits using only clothes you own, for occasions, festivals, weddings, trips and weather. Understands English and Hinglish requests.
+#### 👗 [Adaa — Personal Wardrobe Stylist](https://github.com/SwarangiK-21/Adaa-) · [Live app](https://adaa-every-outfit-tells-your-adaa.eastasia.cloudapp.azure.com)
+Builds complete outfits using only clothes you own, for occasions, festivals, weddings, trips and weather. Understands English and Hinglish, typed or spoken.
 
-- Rule-based recommender + in-browser ONNX models for garment cut-outs
-- Accounts, saved looks, wear stats, cost-per-wear
-- 145 backend tests
+- Rule-based stylist + in-browser ONNX models (IS-Net, SegFormer) for garment cut-outs
+- Accounts, saved looks, wear stats, cost per wear
+- Live on Azure (Caddy https, nightly off-site backups); **258** backend tests
 
-`React` `Vite` `FastAPI` `SQLite` `ONNX Runtime Web`
+`React` `Vite` `FastAPI` `SQLite` `ONNX Runtime Web` `Azure`
 
 </td>
 </tr>
