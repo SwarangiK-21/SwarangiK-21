@@ -69,7 +69,7 @@ LangGraph agent that classifies an error, researches current sources, drafts a f
 </td>
 <td width="50%" valign="top">
 
-#### 👗 [Adaa — Personal Wardrobe Stylist](https://github.com/SwarangiK-21/Adaa-) · [Live app](https://adaa-every-outfit-tells-your-adaa.eastasia.cloudapp.azure.com)
+#### 👗 [Peheraav AI — Your Wardrobe, Styled by AI](https://github.com/SwarangiK-21/Peheraav-YourWardrobeStyledByAI) · [Live app](https://peheraav-ai.eastasia.cloudapp.azure.com)
 Builds complete outfits using only clothes you own, for occasions, festivals, weddings, trips and weather. Understands English and Hinglish, typed or spoken.
 
 - Rule-based stylist + in-browser ONNX models (IS-Net, SegFormer) for garment cut-outs
