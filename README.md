@@ -43,14 +43,14 @@ Secure, explainable legal-research assistant for Indian advocates. Agentic RAG o
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 [CodeSynapse](https://github.com/SwarangiK-21/CodeSynapse)
-AI career analytics with a **LangGraph skill-gap agent** that proves each skill claim with line-level evidence from real repositories.
+#### 🧠 [CodeSynapse](https://github.com/SwarangiK-21/CodeSynapse) · [Live demo](https://huggingface.co/spaces/SwarangiK-21/CodeSynapse)
+Checks your real code against a job description or your own resume with a **LangGraph agent** that proves every claim with line-level evidence, and rejects any claim the code doesn't support.
 
-- Hard benchmark: F1 **0.91** vs **0.77** for a single-prompt baseline; all **72** cited code lines verified across both sets
-- Blocked **8/8** prompt-injection attacks
-- Tree-sitter + BM25 + pgvector hybrid code search; CI with Postgres + Docker
+- Hard benchmark: F1 **0.96** vs **0.81** for a single-prompt baseline; **98/98** cited code lines verified; **8/8** prompt-injection attacks blocked
+- Measured its own search (Success@k, MRR) and found the hybrid ranking scoring *below* plain vector search; a tuned fusion lifted top-1 hits from **0.30 → 0.49**
+- Resume claim checker, MCP server for Claude and Cursor, background jobs and rate limits; **291** tests, auto-deployed from CI
 
-`LangGraph` `Gemini` `FastAPI` `Gradio` `pgvector` `GitHub Actions`
+`LangGraph` `Gemini` `FastAPI` `pgvector` `MCP` `Supabase` `GitHub Actions`
 
 </td>
 </tr>
