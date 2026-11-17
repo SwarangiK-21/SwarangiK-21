@@ -58,13 +58,13 @@ AI career analytics with a **LangGraph skill-gap agent** that proves each skill 
 <td width="50%" valign="top">
 
 #### ⚡ [LUMINA — AI DevOps Troubleshooter](https://github.com/SwarangiK-21/Lumina-AI-DevOps)
-LangGraph agent that classifies an error, researches current sources, drafts a fix and has a reviewer step send it back until it passes.
+LangGraph agent that classifies an error, researches current sources, drafts a cited fix and sends it back through safety rules and an AI reviewer until it passes.
 
-- Validated Pydantic schemas, cited sources, review loop with feedback memory
-- 50-case hand-labelled benchmark with rule-based, quota-free scoring
-- Tests with fake LLM/search, Docker, CI
+- 50-case benchmark: root cause found in **50/50**, citations valid in **49/50**, safe on **11/12** trap cases
+- Found the AI reviewer approving an unsafe fix (`--insecure-skip-tls-verify`), so added **13 fixed safety rules** that run before it; they flag only that case across all 50 answers
+- Live step progress in the UI; **82** tests with fake LLM/search, Docker, CI
 
-`LangGraph` `Gemini` `Tavily` `Streamlit` `pytest`
+`LangGraph` `Gemini` `Tavily` `Streamlit` `pytest` `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
