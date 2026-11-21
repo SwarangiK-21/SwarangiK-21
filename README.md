@@ -75,7 +75,8 @@ LangGraph agent that classifies an error, researches current sources, drafts a c
 - 50-case benchmark: root cause found in **50/50**, citations valid in **49/50**, safe on **11/12** trap cases
 - Found the AI reviewer approving an unsafe fix (`--insecure-skip-tls-verify`), so added **13 fixed safety rules** that run before it; they flag only that case across all 50 answers
 - Trap rerun with the rules: safe on **12/12**; the rules sent back risky first drafts in 2 cases
-- Live step progress in the UI; **82** tests with fake LLM/search, Docker, CI
+- Masks keys, tokens and passwords before any model or search call: **20/20** secret logs masked, **15/15** look-alike logs untouched
+- Live step progress in the UI; **123** tests with fake LLM/search, Docker, CI
 
 `LangGraph` `Gemini` `Tavily` `Streamlit` `pytest` `GitHub Actions`
 
