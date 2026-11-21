@@ -21,9 +21,10 @@
 
 **Data Analyst Intern** · Krios Info Solutions Pvt. Ltd., Pune · *May 2026 – Nov 2026*
 
-- Designed and developed Tableau and Power BI dashboards for enterprise clients, turning complex business data into KPI-driven insights.
-- Built Python/SQL data pipelines for data cleaning, transformation, validation and automated reporting.
-- Contributed to solution design, translating client requirements into analytical solutions, and automated recurring reporting workflows.
+- Designed and built Tableau and Power BI dashboards for enterprise manufacturing clients, turning operational and business data into KPI views for decision-makers.
+- Handled solution design for client engagements: gathered requirements from client teams and translated them into dashboard designs, data models and reporting workflows, working with internal cross-functional teams.
+- Built Python and SQL pipelines for data cleaning, transformation and validation behind these reports.
+- Automated recurring reporting workflows to reduce manual effort.
 
 ---
 
