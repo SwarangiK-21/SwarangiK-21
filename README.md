@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Swarangi Kothawade 👋</h1>
 
 <p align="center">
-  <b>AI / ML & Data Science Engineer</b> — I build grounded LLM applications, agentic RAG systems and data products that are measured, tested and honest about their limits.
+  <b>Data Analytics · Data Engineering · AI</b> — I build data pipelines, BI dashboards and grounded AI applications that are measured, tested and honest about their limits.
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE (AI & Data Science), Pimpri Chinchwad University, Pune · 2023–2027
+  🎓 B.Tech CSE (AI & Data Science), Pimpri Chinchwad University, Pune · 2023–2027 · CGPA 8.3<br>
+  💼 Former Data Analyst Intern, Krios Info Solutions (May–Nov 2026)
 </p>
 
 <p align="center">
@@ -16,12 +17,22 @@
 
 ---
 
+### 💼 Experience
+
+**Data Analyst Intern** · Krios Info Solutions Pvt. Ltd., Pune · *May 2026 – Nov 2026*
+
+- Designed and developed Tableau and Power BI dashboards for enterprise clients, turning complex business data into KPI-driven insights.
+- Built Python/SQL data pipelines for data cleaning, transformation, validation and automated reporting.
+- Contributed to solution design, translating client requirements into analytical solutions, and automated recurring reporting workflows.
+
+---
+
 ### 🧭 What I work on
 
+- **Data analytics & BI** — SQL, Python and Power BI / Tableau / Excel dashboards that answer specific business questions.
+- **Data engineering** — ETL pipelines with Python and SQL, data cleaning and validation, PostgreSQL / Supabase, SQLAlchemy.
 - **Agentic AI & RAG** — LangGraph workflows, hybrid retrieval (BM25 + dense + reranking), citation checking, prompt-injection testing and evaluation harnesses.
-- **Applied ML & data science** — anomaly detection, classification, exploratory analysis and forecasting baselines on real and synthetic data.
-- **Data analytics & BI** — Power BI, Tableau and Excel dashboards that answer specific business questions.
-- **Software engineering** — FastAPI backends, PostgreSQL/Supabase with row-level security, Docker, CI and automated tests.
+- **Applied ML & software engineering** — anomaly detection and EDA; FastAPI backends, Docker, CI and automated tests.
 
 ---
 
@@ -146,4 +157,4 @@ Builds complete outfits using only clothes you own, for occasions, festivals, we
 
 ---
 
-<p align="center"><i>Open to AI/ML, Data Science, Data Analytics and Software Engineering roles and internships. Let's talk!</i></p>
+<p align="center"><i>Open to Data Analyst, Data Engineer and AI/ML roles · Graduating 2027. Let's talk!</i></p>
